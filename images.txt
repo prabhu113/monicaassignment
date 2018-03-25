@@ -1,0 +1,5 @@
+bad_block,images\bad_block_sprite.png,-2
+good_block,images\good_block_sprite.png,2
+player,images\player_sprite.png,0
+background_title,images\title_screen_background.jpg,0
+background_game,images\game_screen_background.jpg,0
